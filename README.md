@@ -31,6 +31,7 @@ Go 1.18+
 Ebiten v2 dependencies (standard for your OS)
 
 Installation
+
 Clone the repository:
 
 git clone 
