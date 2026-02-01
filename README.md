@@ -38,5 +38,3 @@ git clone
 
 Run the project:
 `go run main.go`
-
-Thank You!!!
