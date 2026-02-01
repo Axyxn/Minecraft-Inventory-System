@@ -31,10 +31,11 @@ Go 1.18+
 Ebiten v2 dependencies (standard for your OS)
 
 Installation
+
 Clone the repository:
 
-git clone
-`https://github.com/yourusername/go-inventory-system.git`
+git clone 
+```https://github.com/yourusername/go-inventory-system.git```
 
 Run the project:
-`go run main.go`
+```go run main.go```
